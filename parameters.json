@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_uokse_app_name": {
+            "value": null
+        },
+        "sites_uokse15_16_name": {
+            "value": null
+        },
+        "frontdoors_uokse_name": {
+            "value": null
+        },
+        "sites_redis_cache_app_name": {
+            "value": null
+        },
+        "Redis_redis_cache_se_name": {
+            "value": null
+        },
+        "servers_uok_mysql_name": {
+            "value": null
+        },
+        "components_uokse_app_name": {
+            "value": null
+        },
+        "serverfarms_ASP_uokse_80ad_name": {
+            "value": null
+        },
+        "serverfarms_paid_app_service_plan_name": {
+            "value": null
+        },
+        "storageAccounts_storageaccountuokseb762_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "frontdoorwebapplicationfirewallpolicies_frontdoorpolicy_name": {
+            "value": null
+        },
+        "dashboards_daf55768_8dcd_483d_98fb_8f7aece7c2c7_dashboard_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___uokse_app_name": {
+            "value": null
+        }
+    }
+}
